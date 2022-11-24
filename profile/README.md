@@ -3,7 +3,7 @@
 [PDHdata][pdhdata] is a resource for Magic: the Gathering players.
 It provides a place to discover new commanders and see what people are running in [Pauper Commander (PDH)][pdhhomebase].
 PDHdata is powered by an open source project called [SmallFormats][smallformats].
-This site and this software are not endorsed by Wizards of the Coast, the PDH rules committee, Scryfall, Archidekt, or anyone else.
+This site and this software are not endorsed by Wizards of the Coast, the PDH rules committee, Scryfall, Archidekt, Moxfield, or anyone else.
 
 ## Fan content
 
